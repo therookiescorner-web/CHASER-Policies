@@ -1,6 +1,6 @@
 # Terms of Use
 
-*Effective Date: April 16, 2026*
+**Effective Date: April 16, 2026**
 
 <p>Welcome to Chaser. These Terms of Use ("Terms") govern your access to and use of the Chaser mobile application (the "App") operated by Chaser ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.</p>
 

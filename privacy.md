@@ -2,7 +2,7 @@
 
 **Effective Date: May 14, 2026**
 
-Chaser ("we," "us," or "our") operates the Chaser mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App. Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
+The Rookies Corner, LLC ("we," "us," or "our") operates the Chaser mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App. Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
 ---
 

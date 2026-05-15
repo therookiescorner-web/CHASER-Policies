@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: April 16, 2026**
+**Effective Date: May 14, 2026**
 
 Chaser ("we," "us," or "our") operates the Chaser mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App. Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -12,7 +12,7 @@ Chaser ("we," "us," or "our") operates the Chaser mobile application (the "App")
 
 - **Account Information:** When you create an account, we collect your email address, first name, and last name. You authenticate through Google or Apple sign-in; we do not collect or store your passwords.
 - **Business Account Information:** If you register as a business account, we may also collect your business name, phone number, address, and website URL.
-- **Subscription Information:** When you subscribe, we collect your chosen plan type (monthly or annual) and subscription status. Payment processing is handled entirely by Apple (App Store) and Google (Play Store) through RevenueCat; we do not collect, store, or process your credit card numbers, bank account details, or other financial payment information.
+- **Subscription Information:** When you subscribe to Chaser Pro, we collect your chosen plan (monthly or annual), subscription status, renewal date, and trial status. Subscriptions are sold as auto-renewable in-app purchases. Payment is processed entirely by Apple (App Store) or Google (Play Store) and managed through RevenueCat. We do not collect, store, or process credit card, bank, or other financial payment information. Your subscription automatically renews at the end of each billing period unless cancelled at least 24 hours before the renewal date through your Apple ID or Google Play account settings. You can manage or cancel your subscription at any time in those settings; deleting the app does not cancel your subscription.
 - **User-Created Content:** Events you create and submit through the App, including event title, description, location, date, time, and contact information.
 
 ### 1.2 Information Collected Automatically
@@ -37,7 +37,7 @@ We use the information we collect to:
 - Display nearby trading card shops based on your location
 - Show trading card events and product release calendars
 - Send push notifications about events and releases you have opted into
-- Process and manage your subscription
+- Process, manage, and renew your auto-renewable subscription, including trial eligibility and restoration of purchases
 - Save your preferences, favorites, and notification settings
 - Allow verified businesses to create and manage events
 - Improve and personalize your experience
